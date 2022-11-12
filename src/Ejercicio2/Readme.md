@@ -11,7 +11,7 @@ flowchart TB
     5.5[Calcular Pentágono]
     6{Hexágono}
     6.5[Calcular Hexágono]
-    7[Resultado]
+    7[Resultado/Area]
     8[Error]
     9((Fin))
     
